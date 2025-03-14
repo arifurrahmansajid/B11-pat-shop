@@ -16,6 +16,5 @@ Peddy is a dynamic pet adoption platform where users can view, filter, and adopt
 - Template literals.
 - `async/await` for asynchronous code.
 
-## Live Demo
 
-[Live Link Here : https://ph-b10-assignment-6.netlify.app](https://ph-b10-assignment-6.netlify.app/)
+
